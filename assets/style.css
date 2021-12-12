@@ -1,0 +1,51 @@
+h1 {
+  text-align: center;
+  justify-content: center;
+  background-color: #336594;
+  border: #41a6e1 solid 1px;
+  color: white;
+  font-family: sans-serif;
+  padding: 15px;
+  margin: 2px;
+}
+h2 {
+  color: #336594;
+}
+
+#text {
+  font-weight: bolder;
+  font-size: larger;
+}
+.input-group {
+  margin-bottom: 15px;
+}
+.header-style {
+  font-size: 50px;
+  color: #ffffff;
+  font-family: sans-serif;
+  text-align: center;
+}
+.card {
+  width: 100%;
+}
+.card-body {
+  background-color: #41a6e1;
+  margin: 15px;
+}
+h3 {
+  float: left;
+}
+.low-green {
+  background-color: green;
+  color: white;
+}
+
+.moderate-yellow {
+  background-color: yellow;
+  color: white;
+}
+
+.severe-red {
+  background-color: red;
+  color: white;
+}
